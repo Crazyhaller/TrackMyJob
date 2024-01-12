@@ -1,6 +1,7 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 
 const Wrapper = styled.section`
+  background-color: aliceblue;
   nav {
     width: var(--fluid-width);
     max-width: var(--max-width);
@@ -46,5 +47,5 @@ const Wrapper = styled.section`
       display: block;
     }
   }
-`;
-export default Wrapper;
+`
+export default Wrapper
