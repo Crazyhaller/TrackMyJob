@@ -1,5 +1,4 @@
 /* eslint-disable no-unused-vars */
-import styled from 'styled-components'
 import Wrapper from '../assets/wrappers/LandingPage'
 import main from '../assets/images/main.svg'
 import { Logo } from '../components'
