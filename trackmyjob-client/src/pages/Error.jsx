@@ -19,10 +19,11 @@ const Error = () => {
     )
   }
   return (
-    <div>
-      <h1>Error Page</h1>
-      <Link to="/">Back Home</Link>
-    </div>
+    <Wrapper>
+      <div>
+        <h3>Something Went Wrong!</h3>
+      </div>
+    </Wrapper>
   )
 }
 export default Error
